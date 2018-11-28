@@ -17,4 +17,4 @@ $iterator->key(); // 3
 
 ## Standart implementation
 
-Note, this project was created for learning purposes and can be used as an example, but in most cases (SplFileObject)[http://php.net/manual/en/class.splfileobject.php] from Standard PHP Library is more useful.
+Note, this project was created for learning purposes and can be used as an example, but in most cases [SplFileObject](http://php.net/manual/en/class.splfileobject.php) from Standard PHP Library is more useful.
